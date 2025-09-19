@@ -1,3 +1,4 @@
+document.querySelector(".container-myday").classList.add("on");
 // Open Sidebar
 function openSidebar() {
   const openButton = document.querySelector(".sidebar");
